@@ -35,7 +35,7 @@
    
    
 }
---(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
+-(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
 {
 
    NSString *srt = @"hello";
