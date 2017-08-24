@@ -27,7 +27,7 @@
     [ZBLogHelper writeIn:srt Location: location];
     
     
-    NSString *srtrrrr = @"sb";
+    NSString *srtrrrr = @"bonjour";
     
     
     
